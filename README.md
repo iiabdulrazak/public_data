@@ -1,2 +1,2 @@
-# public_data
-This repository includes all public data am working on
+# Public Data
+This repository includes all public data am/did working/worked on.
